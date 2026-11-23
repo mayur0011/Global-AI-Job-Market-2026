@@ -37,3 +37,7 @@ Mayur There
 Project Category
 
 Data Analytics | AI Job Market Research
+
+
+##Power BI Dashboard
+![Global AI Job Market Dashboard](Screenshot/powerBI-dashboard.png)
